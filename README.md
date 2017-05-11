@@ -1,2 +1,2 @@
 # NA_CMPSC_451
-Course Materials
+Course Materials for the course "Numerical methods"
